@@ -1,0 +1,15 @@
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\bin\Debug\net7.0\DutyHoursCalculatorApp.exe
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\bin\Debug\net7.0\DutyHoursCalculatorApp.deps.json
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\bin\Debug\net7.0\DutyHoursCalculatorApp.runtimeconfig.json
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\bin\Debug\net7.0\DutyHoursCalculatorApp.dll
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\bin\Debug\net7.0\DutyHoursCalculatorApp.pdb
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\obj\Debug\net7.0\DutyHoursCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\obj\Debug\net7.0\DutyHoursCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\obj\Debug\net7.0\DutyHoursCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\obj\Debug\net7.0\DutyHoursCalculatorApp.AssemblyInfo.cs
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\obj\Debug\net7.0\DutyHoursCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\obj\Debug\net7.0\DutyHoursCalculatorApp.dll
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\obj\Debug\net7.0\refint\DutyHoursCalculatorApp.dll
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\obj\Debug\net7.0\DutyHoursCalculatorApp.pdb
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\obj\Debug\net7.0\DutyHoursCalculatorApp.genruntimeconfig.cache
+C:\Users\soybi\Projects\Personal\DutyHoursCalculatorApp\obj\Debug\net7.0\ref\DutyHoursCalculatorApp.dll
